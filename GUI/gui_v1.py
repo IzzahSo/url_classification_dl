@@ -55,13 +55,18 @@ if __name__ == '__main__':
             .    Phishing
             .    Spam
         """)
-	st.sidebar.text("Credits:")
-	st.sidebar.text(""" 
-            Team - O
-            .    Aaditya Jain 
+	st.sidebar.text( """
+	Credits:
+			.    Aaditya Jain 
             .    Anirudh Bhaskar
             .    Ankam Srikanth
             .    Rohith Ramakrishnan
+	"""
+	)
+	st.sidebar.text(""" 
+            Team 
+            .    Nurul Izzah (17178756/1)
+            .    Aiman Isa (17184261/1)
         """)
 	t = Timer()
 	user_input = st.text_input("Enter URL:")

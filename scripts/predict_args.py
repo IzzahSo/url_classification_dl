@@ -9,9 +9,9 @@ import tensorflow as tf
 import pickle
 import data_creation_v3 as d
 import sys, getopt
-from tensorflow.keras.models import load_model
+from tensorflow.python.keras.models import load_model
 os.chdir("../")
-os.chdir("models/")
+os.chdir("models")
 
 order = ['bodyLength', 'bscr', 'dse', 'dsr', 'entropy', 'hasHttp', 'hasHttps',
        'has_ip', 'numDigits', 'numImages', 'numLinks', 'numParams',
