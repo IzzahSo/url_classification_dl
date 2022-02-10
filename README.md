@@ -8,7 +8,7 @@ Authors:
 > [Rohith Ramakrishnan](https://github.com/Rohith-2)
 <hr style=\"border:0.5px solid gray\"> </hr>
 
-## Meduim Post:
+## Medium Post:
 https://medium.com/@rrohith2001/url-feature-engineering-and-classification-66c0512fb34d  
 <hr style=\"border:0.5px solid gray\"> </hr>  
 
